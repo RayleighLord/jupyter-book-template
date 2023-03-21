@@ -1,5 +1,7 @@
 # MyTemplateBook
 
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://rayleighlord.github.io/jupyter-book-template/intro.html)
+
 Access to the webpage [here](https://rayleighlord.github.io/jupyter-book-template/intro.html)
 
 This is a template book
